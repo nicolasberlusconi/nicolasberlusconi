@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nicolasberlusconi
-- 👀 I’m interested in ecommerce 
-- 🌱 I’m currently developing a platform
-- 💞️ I’m looking to collaborate on startups
+- 👀 I’m interested in ecommerce & new techs startups
+- 🌱 I’m currently developing B2B, B2C & D2C ecommerce platforms
+- 💞️ I’m looking to collaborate on startups, ideas, technology.
 - 📫 How to reach me ... IG @nicoberlusconi
 
 <!---
